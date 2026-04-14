@@ -4,4 +4,4 @@
 
 # Base de datos
 
-![Consulta](img/empresa.png "Consulta ")
+![Consulta](img/BD.png "Consulta")
