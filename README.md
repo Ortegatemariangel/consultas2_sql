@@ -72,3 +72,11 @@
 `SELECT e.nombre_empleado, e.apellidos_empleado FROM Empleado e JOIN Departamento d ON e.id_departamento = d.id_departamento WHERE d.presupuesto_departamento > 100000000;`
 
 ![Consulta](img/consulta11.png "Consulta ")
+
+# Clausula inner join
+
+![Consulta](img/innerjoin.png "Consulta ")
+
+# Subconsulta
+
+![Consulta](img/iasubconsulta.png "Consulta ")
